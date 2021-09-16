@@ -1,0 +1,40 @@
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe.config
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.pdb
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Form1.resources
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Properties.Resources.resources
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.exe
+C:\Users\Никита\source\repos\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.pdb
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csprojAssemblyReference.cache
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Form1.resources
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Properties.Resources.resources
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.GenerateResource.cache
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.exe
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.pdb
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe.config
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe
+C:\Users\Сергей\Downloads\RectanglesProject123\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.pdb
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe.config
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.pdb
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.AssemblyReference.cache
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Form1.resources
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Properties.Resources.resources
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.GenerateResource.cache
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.CoreCompileInputs.cache
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.exe
+C:\Users\oxytd\OneDrive\Рабочий стол\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.pdb
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe.config
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.exe
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\bin\Debug\RectanglesProject.pdb
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Form1.resources
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.Properties.Resources.resources
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.exe
+C:\Users\Никита\Desktop\RectanglesProject\RectanglesProject\obj\Debug\RectanglesProject.pdb
